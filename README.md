@@ -1,5 +1,5 @@
 # skrp-yaperjasa
-Aplikasi Siakad untuk SEKOLAH MENENGAH ATAS NEGERI 66 JAKARTA
+Aplikasi Siakad untuk SEKOLAH MENENGAH KEJURUAN YAPERJASA JAKARTA
 
 untuk login siswa :
 tabel data_siswa
